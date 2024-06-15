@@ -65,8 +65,8 @@ h3 {font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 .box-2 
 {border: 2px inset brown; border-radius: 15px;
-background-color: white; width: 400px; ; 
-display: inline-block; margin: 15px;
+background-color: white; width: 400px; height: 500px; 
+display: inline-flex; margin: 15px; 
 }
 
 #contact {
